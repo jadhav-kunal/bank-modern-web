@@ -6,6 +6,7 @@ import {
   instagram,
   linkedin,
   twitter,
+  github,
   airbnb,
   binance,
   coinbase,
@@ -188,7 +189,12 @@ export const socialMedia = [
   {
     id: "social-media-4",
     icon: linkedin,
-    link: "https://www.linkedin.com/",
+    link: "https://www.linkedin.com/in/jadhav-kunal/",
+  },
+  {
+    id: "social-media-5",
+    icon: github,
+    link: "https://github.com/jadhav-kunal",
   },
 ];
 
